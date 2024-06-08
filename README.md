@@ -89,7 +89,7 @@ Individuals and families often face significant challenges when deciding where t
 ![Mainpage](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/0cc946f3-f31e-4b3f-89db-d1851811e55a)
 
 - Step 13 :By following these steps, the project successfully developed an interactive dashboard that allows users to filter by job location, input current gas prices and MPG, and generate detailed comparative reports on the cost of living across Michigan counties.
-![Full Dashboard](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/4a61d0cf-dabc-4aec-b443-0309a68ff47b)
+![Full Dashboard](https://github.com/Ndaaboul/Portfolio/assets/123441867/9c00d315-5f31-4e34-ac1b-c43c0ddc1c0c)
 
 
 
