@@ -33,7 +33,7 @@ Individuals and families often face significant challenges when deciding where t
             County_Level1[CrimeRate_County] > 6 && County_Level1[CrimeRate_County] <= 10, "6-10%",
             County_Level1[CrimeRate_County] > 10, "Above 10%")
 
-    ![CrimeRateGroup](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/7e1efacd-42fb-4ed3-a104-1cce0d83283f)
+    ![CrimeRateGroup](https://github.com/Ndaaboul/Portfolio/assets/123441867/d0e4b3cc-3c94-41c1-ae4a-10f106d2d0fa)
 
 
 - Step 7 :Slicers were added for the following parameters:
@@ -41,7 +41,7 @@ Individuals and families often face significant challenges when deciding where t
   - Gas Price
   - MPG (Miles Per Gallon)
 
-![Slicers](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/ec1c2c64-bae4-4ed7-863b-9e84b6cf80a9)
+![Slicers](https://github.com/Ndaaboul/Portfolio/assets/123441867/8e9a653a-d91e-445a-96c1-da665ebdf44b)
 
 - Step 8 : A TravelCost measure was created using DAX (Data Analysis Expressions) to be used in the visualization.
        
@@ -66,13 +66,13 @@ Individuals and families often face significant challenges when deciding where t
 
 - Step 9 : Various visualizations were added to the dashboard:
     -  Line and Stacked Column Chart
-    ![Stacked Column](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/42990197-a486-4467-8bb3-02514c59f623)
+    ![Stacked Column](https://github.com/Ndaaboul/Portfolio/assets/123441867/0a9a69a3-f6ab-40d1-8ff8-0e790e440e8f)
 
     -  Matrix Table
-    ![Matrix](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/cd7172c2-79fb-4f86-b250-b61de926294c)
+    ![Matrix](https://github.com/Ndaaboul/Portfolio/assets/123441867/e9f8c5a0-54c1-4501-a72c-75258c73ee34)
 
     -  Filled Map
-    ![Map](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/4d8c3159-1034-4b88-912c-c4e9c1671b51)
+    ![Map](https://github.com/Ndaaboul/Portfolio/assets/123441867/4c8c3bf0-e4ba-4592-9b76-a7b0acc79b61)
 
     -  Multi-Row Card
 
@@ -82,7 +82,7 @@ Individuals and families often face significant challenges when deciding where t
     -   Two Bedroom
     -   Three Bedroom
     -   Four Bedroom
-    ![Pages](https://github.com/Ndaaboul/PortfolioProjects/assets/123441867/ccacdab7-27e7-4b01-8cc7-f8d713afda48)
+    ![Pages](https://github.com/Ndaaboul/Portfolio/assets/123441867/7e019ba5-c4a9-4947-9db7-147a601eec10)
 
 - Step 11 : A main page was designed.
 - Step 12 : Page Navigator buttons were added to enable users to move between pages based on the type of apartment they are looking for.
